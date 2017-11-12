@@ -1,0 +1,10 @@
+const trending = '#selfieforseb, #hrvytalktoya, #theapprentice, #nouvellestar, #havanathemovie, #fcseguindofcs, #pechinoexpress, #mardeamores, #marinolasco, #firstdates478, #testandoos280nosdv, #sonsayfa, #treuominieunagamba, #bmm, #heymafeat, #midtownloftparty, #theapprentice2017, #chilhavisto, #mivozcuenta, #reputation2days, #youngnudyatopera, #feeddart, #caporali, #opcatalunya, #greendayenmtvhits, #trump1an, #lagranderassrah3, #estamoshartos, #larisaesbonita672, #europe, #camilacabello, #thevoicegr, #flicker, #catchraw, #autofollowback, #thelastjedi, #teambillionaire, #openfollow, #autofollow, #yoganoconkatieangel, #angers, #manasnomtvhits, #poruncambioenags, #handmadehour, #kimmel, #ff, #teamfollowback, #mpn, #iran, #followme, #otdirecto8n, #stemday, #photo, #equiparacionya, #girona, #codwwii, #music, #izmirescort, #datesruim, #rt, #competition, #happymomoday, #aldub121stweeksary, #chetadenordelta, #amas, #bts, #dateruim'
+
+TV/Entertainment: '#dwts, #nowplaying, #rio2016, #sytycd'
+General: '#news, #love, #photography, #fashion, #health, #fail, #ff, #wcw, #tbt'
+Business: '#jobs, #business, #sales, #economy, #marketing, #socialmedia, #startup'
+Tech: '#android, #ios, #androidgames,#iphone, #iphonegames, #ipad, #ipadgames, #app'
+Education: '#edtech, #education, #lrnchat, #teachers'
+Environment: '#climate, #solar, #globalwarming, #drought'
+Social Change: '#socialgood, #cause, #volunteer, #4change, #alllivesmatter, #blacklivesmatter, #bluelivesmatter'
+Astrology: '#gemini, #capricorn, #libra, #aries, #scorpio, #virgo, #taurus, #cancer, #pisces, #leo, #sagittarius, #aquarius'

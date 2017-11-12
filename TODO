@@ -1,0 +1,100 @@
+Things to consider for optimization:
+    -hashtags that are middle of the road (500 - 10,000 hits)
+    -broad categories?
+
+-construct relationship tables- figure out ways (data structures!) to organize the relationships to see the most commonly paired hashtags
+    -can I use my own profile?
+    -what do word cloud generators function?
+
+
+-Creating an accout:
+    Mobile Number or Email
+    <div class="_agqzm">
+        <div class="_sjplo">
+            <input type="text" class="_ph6vk _o716c" aria-describedby="" aria-label="Mobile Number or Email" aria-required="true" autocapitalize="off" autocorrect="off" name="emailOrPhone" placeholder="Mobile Number or Email" value=""><div class="_gaby6"></div>
+        </div>
+    </div>
+    Full name
+    <div class="_agqzm">
+        <div class="_sjplo">
+            <input type="text" class="_ph6vk _o716c" aria-describedby="" aria-label="Full Name" aria-required="false" autocapitalize="sentences" autocorrect="off" name="fullName" placeholder="Full Name" value="">
+            <div class="_gaby6"></div>
+        </div>
+    </div>
+    UserName
+    <div class="_agqzm">
+        <div class="_sjplo">
+            <input type="text" class="_ph6vk _o716c" aria-describedby="" aria-label="Username" aria-required="true" autocapitalize="off" autocorrect="off" maxlength="30" name="username" placeholder="Username" value="">
+            <div class="_gaby6"></div>
+        </div>
+    </div>
+    Password
+    <div class="_agqzm">
+        <div class="_sjplo">
+            <input type="password" class="_ph6vk _o716c" aria-describedby="" aria-label="Password" aria-required="true" autocapitalize="off" autocorrect="off" name="password" placeholder="Password" value="">
+            <div class="_gaby6"></div>
+        </div>
+    </div>
+    Sign up
+    <div>
+        <span class="_9mno0 _ov9ai">
+            <button class="_qv64e _gexxb _4tgw8 _njrw0">Sign up</button>
+        </span>
+    </div>
+
+    OR LOG in
+    <p class="_c59vy">
+        Have an account? 
+        <a class="_b93kq" href="javascript:;">Log in</a>
+    </p>
+
+    -----------
+
+    username:
+    <div class="_sjplo">
+        <input type="text" class="_ph6vk _o716c" aria-describedby="" aria-label="Phone number, username, or email" aria-required="true" autocapitalize="off" autocorrect="off" autocomplete="username" maxlength="30" name="username" placeholder="Phone number, username, or email" value="">
+        <div class="_gaby6"></div>
+    </div>
+        ------> input username
+    
+    password:
+    <div class="_sjplo">
+        <input type="password" class="_ph6vk _o716c" aria-describedby="" aria-label="Password" aria-required="true" autocapitalize="off" autocorrect="off" autocomplete="current-password" name="password" placeholder="Password" value="">
+        <div class="_gaby6"></div>
+    </div>
+        -------> input password
+    
+    click login:
+    <span class="_t38eb _ov9ai"><button class="_qv64e _gexxb _4tgw8 _njrw0">Log in</button></span>
+
+email: snoelkendall@gmail.com
+fullname: Shannon Kendall
+username: miss_snoel
+password: seamusbane
+
+<form class="_3jvtb">
+    <div class="_t296e">
+        <div class="_sjplo">
+            <input type="text" class="_ph6vk _o716c" aria-describedby="" aria-label="Phone number, username, or email" aria-required="true" autocapitalize="off" autocorrect="off" autocomplete="username" maxlength="30" name="username" placeholder="Phone number, username, or email" value="miss_snoel">
+            <div class="_gaby6"></div>
+        </div>
+    </div>
+    <div class="_t296e">
+        <div class="_sjplo">
+            <input type="password" class="_ph6vk _o716c" aria-describedby="" aria-label="Password" aria-required="true" autocapitalize="off" autocorrect="off" autocomplete="current-password" name="password" placeholder="Password" value="seamusbane">
+            <div class="_gaby6">
+                <a class="_97sa5" href="javascript:;">Show</a>
+            </div>
+        </div>
+    </div>
+    <span class="_t38eb _ov9ai">
+        <button class="_qv64e _gexxb _4tgw8 _njrw0">Log in</button>
+    </span>
+    <a class="_pbd5h" href="/accounts/password/reset/">Forgot password?</a>
+</form>
+
+MORE LINK
+<a class="_kq8rw" href="#">&nbsp;more</a>
+
+LOAD MORE COMMENTS
+<a class="_m3m1c _1s3cd" href="#" role="button">Load more comments</a>
