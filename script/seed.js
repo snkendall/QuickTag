@@ -12,7 +12,7 @@
 const db = require('../server/db')
 const {Hashtag, Relationship} = require('../server/db/models')
 
-const tags = ['#actor', '#nycactor', '#acting', '#film', '#television', '#oncamera', '#hot', '#werk', '#work', '#makeart', '#theindustry', '#cinema', '#script', '#director', '#actorgym', '#actorproblems', '#actorthings', '#actorintraining', '#nyactor', '#professional', '#memorize', '#emote', '#actallthethings', '#actors']
+const tags = ['#actor', '#nycactor', '#acting', '#film', '#television', '#oncamera', '#hot', '#werk', '#work', '#makeart', '#theindustry', '#cinema', '#script', '#director', '#actorgym', '#actorproblems', '#actorthings', '#actorintraining', '#nyactor', '#professional', '#memorize', '#emote', '#actallthethings', '#actors', '#schmacting', '#blessed', '#entertainment', '#makeyourownwork', '#hustle', '#womeninfilm', '#grateful', '#glare', '#memory', '#hardwork', '#lucky', '#sag', '#sagaftra', '#scenestudy', '#dreams', '#dreambig', '#talent', '#agent', '#manager', '#actingcoach', '#isthisreallife', '#class', '#actingclass', '#setlife', '#actorlife', '#filmmaker']
 
 
 const createAllTheTags = (tagsArray) => {
@@ -58,7 +58,7 @@ async function seed () {
   console.log('db synced!')
 
   const createdTags = await createAllTheTags(tags)
-      for (let i = 0; i < 50; i++){
+      for (let i = 0; i < 100; i++){
         await Promise.all(simulateComment(createdTags.filter(tag => Math.round(Math.random()))))
       }
   console.log(`seeded successfully`)
